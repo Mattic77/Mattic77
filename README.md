@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi, I'm Younes
 
-<!--
-**Mattic77/Mattic77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack developer** with a backend focus, currently completing a Master's in Computer Science and Mobility at the Université de Haute-Alsace.
+🔎 **Looking for a 6-month internship starting January 2027.**
 
-Here are some ideas to get you started:
+- 🛠️ Backend: Node.js / Express / NestJS / Next.js, TypeScript
+- 🗄️ Data: PostgreSQL, MongoDB, Redis
+- 🤖 Interested in applied AI: RAG, LangChain, Ollama
+- 🐳 DevOps: Docker, Kubernetes, Ansible, GitHub Actions
+- 📫 Reach me at: youneshadli09@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🚀 Featured projects
+
+- **[Culturo_Backend](https://github.com/Mattic77/Culturo_Backend)** — REST API built with NestJS/PostgreSQL, featuring an intelligent quiz engine powered by RAG (LangChain, Ollama, Socket.io, Redis)
+- **[maherSpin_Backend](https://github.com/Mattic77/maherSpin_Backend)** — E-commerce backend (Node.js/Express/MongoDB/GraphQL)
+- **[V2V-Network-Simulator](https://github.com/Mattic77/V2V-Network-Simulator)** — C++ simulator for Vehicle-to-Vehicle communication with OpenStreetMap-based visualization
+
+---
+
+#### 📊 Stats
+
+![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattic77&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattic77&layout=compact)
