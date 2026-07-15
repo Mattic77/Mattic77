@@ -1,12 +1,13 @@
 ### 👋 Hi, I'm Younes
 
-**Full-Stack developer** with a backend focus, currently completing a Master's in Computer Science and Mobility at the Université de Haute-Alsace.
-🔎 **Looking for a 6-month internship starting January 2027.**
+**Full-Stack developer** passionate about backend architecture and building scalable, well-structured applications.
+🔎 **Currently looking for a 6-month internship starting January 2027.**
 
 - 🛠️ Backend: Node.js / Express / NestJS / Next.js, TypeScript
 - 🗄️ Data: PostgreSQL, MongoDB, Redis
 - 🤖 Interested in applied AI: RAG, LangChain, Ollama
 - 🐳 DevOps: Docker, Kubernetes, Ansible, GitHub Actions
+- 🌐 Portfolio: [youneshadli.dev](https://www.youneshadli.dev/)
 - 📫 Reach me at: youneshadli09@gmail.com
 
 ---
@@ -20,6 +21,9 @@
 ---
 
 #### 📊 Stats
+
+![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattic77&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattic77&layout=compact)
 
 ![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattic77&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattic77&layout=compact)
